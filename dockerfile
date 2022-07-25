@@ -1,0 +1,3 @@
+FROM nginx
+MAINTAINER intelliqit
+EXPOSE 90
